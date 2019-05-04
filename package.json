@@ -1,0 +1,26 @@
+{
+  "name": "bamazon2",
+  "version": "1.0.0",
+  "description": "mySql amazon-like app",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "node bamazon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayjlou/Bamazon2.git"
+  },
+  "keywords": [
+    "mysql"
+  ],
+  "author": "Katie Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayjlou/Bamazon2/issues"
+  },
+  "homepage": "https://github.com/kayjlou/Bamazon2#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
+}
