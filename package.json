@@ -4,7 +4,7 @@
   "description": "mySql amazon-like app",
   "main": "bamazon.js",
   "scripts": {
-    "test": "node bamazon.js"
+    "start": "node bamazon.js"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,6 @@
   "homepage": "https://github.com/kayjlou/Bamazon2#readme",
   "dependencies": {
     "inquirer": "^6.3.1",
-    "mysql": "^2.17.1",
-    "mysql2": "^1.6.5"
+    "mysql2": "^3.0.0"
   }
 }

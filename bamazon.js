@@ -3,9 +3,9 @@ const inquirer = require("inquirer");
 
 //Connection to database
 const db = createConnection({
-  host: "localhost",
+  host: "127.0.0.1",
   user: "root",
-  password: "Navigator13",
+  password: "",
   database: "bamazon2"
 });
 
